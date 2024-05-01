@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668439444845",
+    "project_id": "chatburst-9627e",
+    "storage_bucket": "chatburst-9627e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668439444845:android:894d1f3681021f6436ae64",
+        "android_client_info": {
+          "package_name": "ma.enset.chatburst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbjbroHdbxPROjXFzo43s40DLqADdNrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
